@@ -4,7 +4,7 @@
 
 int main() {
 
-    print_f('Hollo World, \n Dominik-developer here!');
+    printf("Hollo World, \n Dominik-developer here!");
 
     return 0;
 }
